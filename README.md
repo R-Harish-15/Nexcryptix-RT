@@ -2,6 +2,5 @@
 <p align="center">
   <img src="assests/github nexcrptix.png">
 </p>
-USB Endpoint Data Security System
 
 
