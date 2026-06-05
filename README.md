@@ -3,7 +3,7 @@
   <img src="assests/github nexcrptix.png">
 </p>
 
-## Installation
+## Installation :
 
 ## On Endpoint System
 ### Encryption Module :
@@ -22,7 +22,7 @@
 4. Launch Nexcryptix-RT Decryptor
 
 
-## Usage
+## Usage :
 
 ### Encryption
 
@@ -43,14 +43,14 @@
 5. Encrypted files will be restored to their original format.
 6. Temporary security artifacts will be securely removed after successful decryption.
 
-## Requirements
+## Requirements :
 
 - Windows 10 or Windows 11
 - USB Storage Device
 - Administrator Privileges (Recommended)
 
 
-## Automatic Startup Configuration
+## Automatic Startup Configuration :
 
 Nexcryptix-RT is configured to launch automatically after user login using Windows Task Scheduler, ensuring continuous USB endpoint protection without requiring manual startup.
 
@@ -62,10 +62,11 @@ Nexcryptix-RT is configured to launch automatically after user login using Windo
 2. Navigate to **Task Scheduler Library**.
 3. Search for:
    - `USBVaultArmorRT`
+   or
    - `Nexcryptix-RT`
 4. Open the task properties to view its startup and security settings.
 
-### Purpose
+### Purpose :
 
 The scheduled task automatically launches Nexcryptix-RT during user logon, enabling:
 
@@ -97,7 +98,7 @@ The scheduled task automatically launches Nexcryptix-RT during user logon, enabl
 - Automatically restart on failure
 - Prevent multiple instances from running simultaneously
 
-### Purpose
+### Purpose :
 
 This configuration ensures that:
 
@@ -107,5 +108,12 @@ This configuration ensures that:
 - Security event logging operates without interruption
 - Endpoint protection remains active throughout the user session
 
-
+## Set or Keep as like as in the images : 
+<p align="center">
+  <img src="assests/11.jpeg"><br><br> 
+  <img src="assests/12.jpeg"><br><br> 
+  <img src="assests/13.jpeg"><br><br> 
+  <img src="assests/14.jpeg"><br><br> 
+  <img src="assests/15.jpeg"><br><br> 
+</p>
   
