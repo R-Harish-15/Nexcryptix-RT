@@ -123,3 +123,8 @@ This configuration ensures that:
   <img src="assests/15.jpeg"><br><br> 
 </p>
   
+<p align="center">
+  <img src="assests/nexcryptix.jpeg">
+</p>
+
+© 2026 Harish R | All Rights Reserved.
