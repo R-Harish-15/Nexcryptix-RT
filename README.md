@@ -124,7 +124,7 @@ This configuration ensures that:
 </p>
   
 <p align="center">
-  <img src="assests/nexcryptix.png">
+  <img src="assests/nexcryptix.jpg">
 </p>
 
 © 2026 Harish R . All Rights Reserved.
